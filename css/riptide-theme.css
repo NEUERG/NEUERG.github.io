@@ -38,10 +38,10 @@
 .panel-title a span{
   color: #86E2D5;		
 }
-.service_icon{
+.event_icon{
 	background-color: #86E2D5;
 }
-.single_service:hover .service_icon{	
+.single_service:hover .event_icon{	
 	color: #86E2D5;
 	border: 2px solid #86E2D5;
 	background-color: #fff;

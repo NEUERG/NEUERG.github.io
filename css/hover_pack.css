@@ -3,6 +3,19 @@
 -webkit-transition: none !important;
 }
 
+
+.b-wrapper h4 {
+    font-size: 40px;
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.b-wrapper p {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
 /*-----------------------------------------------------------------------------------*/
 /*	Fade
 /*-----------------------------------------------------------------------------------*/
